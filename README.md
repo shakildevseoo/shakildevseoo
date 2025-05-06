@@ -31,6 +31,8 @@ Skills: MongoDB / Express.js / Node.js / React / Javascript / Tailwind CSS /  Bo
 <a href="https://instagram.com/shakildevseoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
 <a href="https://dribbble.com/shakildevseoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shakildevseoo" height="30" width="40" /></a>
 <a href="https://www.behance.net/shakildevseoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shakildevseoo" height="30" width="40" /></a>
+<a href="https://www.reddit.com/shakildevseoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="shakildevseoo" height="30" width="40" /></a>
+<a href="https://medium.com/@shakildevseoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="shakildevseoo" height="30" width="40" /></a>
 </p>
 
 ## Use To Code
