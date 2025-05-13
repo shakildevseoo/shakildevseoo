@@ -24,7 +24,7 @@ Skills: MongoDB / Express.js / Node.js / React / Javascript / Tailwind CSS /  Bo
 
 <p align="center">
 <!-- <a href="https://fb.com/shakildevseoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/shakildevseoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakildevseoo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shakildevseo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakildevseo" height="30" width="40" /></a>
 <a href="https://twitter.com/shakildevseoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://codepen.io/shakildevseoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shakildevseoo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@shakildevseo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
@@ -100,7 +100,7 @@ Skills: MongoDB / Express.js / Node.js / React / Javascript / Tailwind CSS /  Bo
 <div align="center">
 <br/>
 
-<a href="https://www.linkedin.com/in/shakildevseoo/" target="_blank">
+<a href="https://www.linkedin.com/in/shakildevseo/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 
